@@ -12,6 +12,7 @@ namespace _01_Ismetles
         {
 
             Console.WriteLine("Hello World!");
+            Console.ReadLine();
         }
     }
 }
