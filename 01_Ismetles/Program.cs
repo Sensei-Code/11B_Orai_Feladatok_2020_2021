@@ -10,6 +10,8 @@ namespace _01_Ismetles
     {
         static void Main(string[] args)
         {
+
+            Console.WriteLine("Hello World!");
         }
     }
 }
