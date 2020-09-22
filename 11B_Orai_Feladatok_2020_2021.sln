@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28307.1231
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11B_Orai_Feladatok_2020_2021", "11B_Orai_Feladatok_2020_2021\11B_Orai_Feladatok_2020_2021.csproj", "{03E2E9F8-B9F5-4510-9AEB-D7DC03452F74}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01_Ismetles", "01_Ismetles\01_Ismetles.csproj", "{672B40D6-487D-489D-A713-4352294BD999}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{03E2E9F8-B9F5-4510-9AEB-D7DC03452F74}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{03E2E9F8-B9F5-4510-9AEB-D7DC03452F74}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{03E2E9F8-B9F5-4510-9AEB-D7DC03452F74}.Release|Any CPU.Build.0 = Release|Any CPU
+		{672B40D6-487D-489D-A713-4352294BD999}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{672B40D6-487D-489D-A713-4352294BD999}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{672B40D6-487D-489D-A713-4352294BD999}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{672B40D6-487D-489D-A713-4352294BD999}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

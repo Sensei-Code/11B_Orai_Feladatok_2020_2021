@@ -4,13 +4,12 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace _11B_Orai_Feladatok_2020_2021
+namespace _01_Ismetles
 {
     class Program
     {
         static void Main(string[] args)
         {
-
         }
     }
 }
