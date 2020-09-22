@@ -1,0 +1,12 @@
+﻿Programozási feladat
+
+Töltsünk fel egy tömböt háromjegyű egész számokkal. A tömb méretét a 
+felhasználótól kérjük be de csak akkor fogadjuk el ha 10 és 50 közé esik. 
+Ha nem megfelelő számot adunk meg, akkor lépjen ki a program (fejlesztési 
+lehetőség: addig kérjen be számot amíg jót nem írunk).
+
+Írassuk ki:
+ - A tömbben lévő számok összegét!
+ - Hogy mennyi 7-tel osztható szám van benne!
+
+Egy másik ugyanilyen méretű tömbbe számoljuk ki az elemek négyzetét.
