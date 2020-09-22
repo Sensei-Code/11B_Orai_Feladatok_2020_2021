@@ -28,30 +28,56 @@ namespace _01_Ismetles
 
             } while (hibas_bekeres);
 
+            Console.Write("Kérek egy számot, megnézem eleme-e a tömbnek: ");
+            int be = int.Parse(Console.ReadLine());
+
             int[] t = new int[meret];
 
             Random rnd = new Random();
             int osszeg = 0;
             int db_oszthato = 0;
-
+            int min = int.MaxValue;
+            int min_index = 0;
+            int max_index = 0;
+            int max = 0;
+            bool talalt = false;
 
             for (int i = 0; i < t.Length; i++)
             {
                 t[i] = rnd.Next(100, 1000);
-                osszeg += t[i];
-                // osszeg = osszeg + t[i];
+                osszeg += t[i];          
 
                 if (t[i] % 7 == 0) db_oszthato++;
+
+                if (min > t[i])
+                {
+                    min = t[i];
+                    min_index = i;
+                }
+
+                if (max < t[i])
+                {
+                    max = t[i];
+                    max_index = i;
+                }
+                if (t[i] == be) talalt = true;
 
                 Console.Write("{0} ",t[i]);
             }
 
             Console.WriteLine("\n\nA tömbben lévő számok összege: {0}",osszeg);
             Console.WriteLine("A tömbben {0} db 7-tel osztható szám van!\n\n", db_oszthato);
+            Console.WriteLine("A tömb legnagyobb eleme {0} ami a tömb {1}. eleme!",max,max_index);
+            Console.WriteLine("A tömb legkisebb eleme {0} ami a tömb {1}. eleme",min,min_index);
+
+            if (talalt)
+                Console.WriteLine("A megadott szám ({0}) SZEREPEL a tömbben",be);
+            else
+                Console.WriteLine("A megadott szám ({0}) NEM SZEREPEL a tömbben", be);
 
             double[] t_negyzet = new double[meret];
 
-            Console.WriteLine("A tömb elemei négyzetre emelve: \n");
+            Console.WriteLine("\nA tömb elemei négyzetre emelve: ");
 
             for (int i = 0; i < t.Length; i++)
             {

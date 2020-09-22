@@ -9,5 +9,6 @@ lehetőség: addig kérjen be számot amíg jót nem írunk).
  - A tömbben lévő számok összegét!
  - Hogy mennyi 7-tel osztható szám van benne!
  - A tömb legkisebb és legnagyobb elemét!
+ - Kérjünk be a felhasználótól egy számot és nézzük meg, hogy a tömb tartalmazza-e.
 
 Egy másik ugyanilyen méretű tömbbe számoljuk ki az elemek négyzetét.
