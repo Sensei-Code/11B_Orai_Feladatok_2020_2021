@@ -9,6 +9,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01_Ismetles", "01_Ismetles\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02_BekeresVegjelig", "02_BekeresVegjelig\02_BekeresVegjelig.csproj", "{BB0ED6D4-B199-49D1-A81B-790824E757D5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03_FajlOlvasas", "03_FajlOlvasas\03_FajlOlvasas.csproj", "{836B357B-2B4B-4CBB-B5D8-AE714939ACE1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04_FajlOlvasas_Ciklussal", "04_FajlOlvasas_Ciklussal\04_FajlOlvasas_Ciklussal.csproj", "{24D48436-3C82-40E0-BBE7-E2D5F2A7EE4E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +31,14 @@ Global
 		{BB0ED6D4-B199-49D1-A81B-790824E757D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BB0ED6D4-B199-49D1-A81B-790824E757D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BB0ED6D4-B199-49D1-A81B-790824E757D5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{836B357B-2B4B-4CBB-B5D8-AE714939ACE1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{836B357B-2B4B-4CBB-B5D8-AE714939ACE1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{836B357B-2B4B-4CBB-B5D8-AE714939ACE1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{836B357B-2B4B-4CBB-B5D8-AE714939ACE1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{24D48436-3C82-40E0-BBE7-E2D5F2A7EE4E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24D48436-3C82-40E0-BBE7-E2D5F2A7EE4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24D48436-3C82-40E0-BBE7-E2D5F2A7EE4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24D48436-3C82-40E0-BBE7-E2D5F2A7EE4E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
