@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04_FajlOlvasas_Ciklussal", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05_FajlIrasa_Ciklussal", "05_FajlIrasa_Ciklussal\05_FajlIrasa_Ciklussal.csproj", "{93D60E56-F5AC-4FE5-B788-B90F877038A9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06_KarakterCsereFajlban", "06_KarakterCsereFajlban\06_KarakterCsereFajlban.csproj", "{45E9169B-F495-4D37-86BE-9F2224483EF7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{93D60E56-F5AC-4FE5-B788-B90F877038A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{93D60E56-F5AC-4FE5-B788-B90F877038A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{93D60E56-F5AC-4FE5-B788-B90F877038A9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{45E9169B-F495-4D37-86BE-9F2224483EF7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45E9169B-F495-4D37-86BE-9F2224483EF7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45E9169B-F495-4D37-86BE-9F2224483EF7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45E9169B-F495-4D37-86BE-9F2224483EF7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

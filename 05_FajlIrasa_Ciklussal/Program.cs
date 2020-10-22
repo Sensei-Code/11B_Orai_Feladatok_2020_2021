@@ -14,14 +14,16 @@ namespace _05_FajlIrasa_Ciklussal
             //Generáljunk le 100 db háromjegyű véletlenszámot, majd azokat vesszővel elválasztva
             //írjuk ki egy "velszam.txt" nevű állományba vesszőkkel elválasztva, úgy
             //hogy egy sorba 10 db szám kerüljön.
+            
 
             int[] szamok = new int[100];
             Random rnd = new Random();
 
             string file = "velszam.txt";
             StreamWriter sw = new StreamWriter(file);
-
+            
             string sor = "";
+            
             for(int i = 1;i<=100;i++)
                 {
                 szamok[i-1] = rnd.Next(100, 1000);
