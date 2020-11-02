@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05_FajlIrasa_Ciklussal", "0
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06_KarakterCsereFajlban", "06_KarakterCsereFajlban\06_KarakterCsereFajlban.csproj", "{45E9169B-F495-4D37-86BE-9F2224483EF7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07_Homerseklet", "07_Homerseklet\07_Homerseklet.csproj", "{0D1760E1-AC09-49BB-A700-DAB37327E82A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{45E9169B-F495-4D37-86BE-9F2224483EF7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{45E9169B-F495-4D37-86BE-9F2224483EF7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{45E9169B-F495-4D37-86BE-9F2224483EF7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0D1760E1-AC09-49BB-A700-DAB37327E82A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D1760E1-AC09-49BB-A700-DAB37327E82A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D1760E1-AC09-49BB-A700-DAB37327E82A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D1760E1-AC09-49BB-A700-DAB37327E82A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
