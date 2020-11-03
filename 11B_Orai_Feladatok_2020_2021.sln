@@ -19,6 +19,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06_KarakterCsereFajlban", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07_Homerseklet", "07_Homerseklet\07_Homerseklet.csproj", "{0D1760E1-AC09-49BB-A700-DAB37327E82A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08_BevetelZsebpenz", "08_BevetelZsebpenz\08_BevetelZsebpenz.csproj", "{48D960F2-BB97-49A7-AEFD-0C88EC7BEDA5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -57,6 +59,10 @@ Global
 		{0D1760E1-AC09-49BB-A700-DAB37327E82A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0D1760E1-AC09-49BB-A700-DAB37327E82A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0D1760E1-AC09-49BB-A700-DAB37327E82A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{48D960F2-BB97-49A7-AEFD-0C88EC7BEDA5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48D960F2-BB97-49A7-AEFD-0C88EC7BEDA5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48D960F2-BB97-49A7-AEFD-0C88EC7BEDA5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48D960F2-BB97-49A7-AEFD-0C88EC7BEDA5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
