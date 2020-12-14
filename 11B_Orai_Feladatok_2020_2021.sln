@@ -25,6 +25,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09_Generator", "09_Generato
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10_MatrixFajlba", "10_MatrixFajlba\10_MatrixFajlba.csproj", "{E445C1EB-E44D-43BF-BB45-B7655C6A9920}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Helsinki", "Helsinki\Helsinki.csproj", "{39128B18-038A-4264-B768-8ADDF9ABAE40}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +77,10 @@ Global
 		{E445C1EB-E44D-43BF-BB45-B7655C6A9920}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E445C1EB-E44D-43BF-BB45-B7655C6A9920}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E445C1EB-E44D-43BF-BB45-B7655C6A9920}.Release|Any CPU.Build.0 = Release|Any CPU
+		{39128B18-038A-4264-B768-8ADDF9ABAE40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39128B18-038A-4264-B768-8ADDF9ABAE40}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39128B18-038A-4264-B768-8ADDF9ABAE40}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39128B18-038A-4264-B768-8ADDF9ABAE40}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
